@@ -1,0 +1,19 @@
+.users-box {
+  background-color: rgb(255, 255, 255);
+  margin-top: 0;
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.users-box span {
+  margin-right: 5px;
+}
+
+.users-box strong {
+  margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.message {
+  background-color: #e6e6e6;
+  max-width: 60%;
+  border-radius: 10px;
+  padding: 7px 12px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.sender {
+  margin-bottom: 0;
+  font-size: 13px;
+}
+
+.time {
+  text-align: right;
+  margin-bottom: 0;
+  color: grey;
+  font-size: 12px;
+}
